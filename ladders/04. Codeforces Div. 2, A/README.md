@@ -81,7 +81,7 @@
 |<ul><li>- [ ] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|75|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|76|[Palindromic Times](http://codeforces.com/problemset/problem/108/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|77|[Guess a number!](http://codeforces.com/problemset/problem/416/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|77|[Guess a number!](http://codeforces.com/problemset/problem/416/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|78|[Exams](http://codeforces.com/problemset/problem/194/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|79|[Card Game](http://codeforces.com/problemset/problem/106/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|80|[Sockets](http://codeforces.com/problemset/problem/257/A)|Codeforces|3|
@@ -92,7 +92,7 @@
 |<ul><li>- [ ] Done</li></ul>|85|[Sleuth](http://codeforces.com/problemset/problem/49/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|86|[Cows and Primitive Roots](http://codeforces.com/problemset/problem/284/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|88|[Bar](http://codeforces.com/problemset/problem/56/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|88|[Bar](http://codeforces.com/problemset/problem/56/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|89|[Lefthanders and Righthanders ](http://codeforces.com/problemset/problem/234/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|90|[Worms Evolution](http://codeforces.com/problemset/problem/31/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|91|[Strange Addition](http://codeforces.com/problemset/problem/305/A)|Codeforces|4|
