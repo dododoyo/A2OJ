@@ -93,11 +93,11 @@
 |<ul><li>- [ ] Done</li></ul>|86|[Cows and Primitive Roots](http://codeforces.com/problemset/problem/284/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|88|[Bar](http://codeforces.com/problemset/problem/56/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|89|[Lefthanders and Righthanders ](http://codeforces.com/problemset/problem/234/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|90|[Worms Evolution](http://codeforces.com/problemset/problem/31/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|89|[Lefthanders and Righthanders ](http://codeforces.com/problemset/problem/234/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|90|[Worms Evolution](http://codeforces.com/problemset/problem/31/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|91|[Strange Addition](http://codeforces.com/problemset/problem/305/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|92|[Plate Game](http://codeforces.com/problemset/problem/197/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|93|[Shell Game](http://codeforces.com/problemset/problem/35/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|93|[Shell Game](http://codeforces.com/problemset/problem/35/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|94|[Chord](http://codeforces.com/problemset/problem/88/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|95|[Triangle](http://codeforces.com/problemset/problem/18/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|96|[Inna and Pink Pony](http://codeforces.com/problemset/problem/374/A)|Codeforces|5|
