@@ -66,7 +66,7 @@
 |<ul><li>- [x] Done</li></ul>|59|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|60|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|61|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|62|[Collecting Beats is Fun](http://codeforces.com/problemset/problem/373/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|62|[Collecting Beats is Fun](http://codeforces.com/problemset/problem/373/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|63|[Levko and Table](http://codeforces.com/problemset/problem/361/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|64|[Vasya and Digital Root](http://codeforces.com/problemset/problem/355/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|65|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
@@ -78,18 +78,18 @@
 |<ul><li>- [x] Done</li></ul>|71|[Eugeny and Array](http://codeforces.com/problemset/problem/302/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|72|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|73|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|75|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|76|[Palindromic Times](http://codeforces.com/problemset/problem/108/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|77|[Guess a number!](http://codeforces.com/problemset/problem/416/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|78|[Exams](http://codeforces.com/problemset/problem/194/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|79|[Card Game](http://codeforces.com/problemset/problem/106/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|79|[Card Game](http://codeforces.com/problemset/problem/106/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|80|[Sockets](http://codeforces.com/problemset/problem/257/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|81|[Snow Footprints](http://codeforces.com/problemset/problem/298/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|82|[Point on Spiral](http://codeforces.com/problemset/problem/279/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|83|[Next Test](http://codeforces.com/problemset/problem/27/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|84|[Rook, Bishop and King](http://codeforces.com/problemset/problem/370/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|85|[Sleuth](http://codeforces.com/problemset/problem/49/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|85|[Sleuth](http://codeforces.com/problemset/problem/49/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|86|[Cows and Primitive Roots](http://codeforces.com/problemset/problem/284/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
 |<ul><li>- [x] Done</li></ul>|88|[Bar](http://codeforces.com/problemset/problem/56/A)|Codeforces|3|
